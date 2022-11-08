@@ -18,11 +18,13 @@
 - [C++ Algorithm/DS Implementations](https://github.com/timothygao8710/Competitive-Programming/tree/main/Algorithm%26DS%20Implementations)
 - [Contributor at USACO.guide](https://github.com/cpinitiative/usaco-guide)
 
-##### Profiles
+I frequently compete in online contests including Leetcode, Codeforces, CodeChef, DMOJ
+
+<img src="https://github.com/timothygao8710/timothygao8710/blob/main/Screen%20Shot%202022-11-07%20at%2011.40.05%20PM.png" width="560">
 
 #### Others
 
+##### Game Development like [this](https://council-of-watersheep.itch.io/coronacarnage)
 
-##### Game Development
+##### Website Development [this](http://kindlingcare.org/)
 
-##### Website Development
