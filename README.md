@@ -26,5 +26,8 @@ I frequently compete in online contests including Leetcode, Codeforces, CodeChef
 
 ##### Game Development like [this](https://council-of-watersheep.itch.io/coronacarnage)
 
+![Game](https://github.com/timothygao8710/timothygao8710/blob/main/gameresult.gif)
+
 ##### Website Development [this](http://kindlingcare.org/)
 
+![Kindling Care Website](https://github.com/timothygao8710/timothygao8710/blob/main/kindlingcareresult.gif)
