@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### Some Cool Projects
+
+![BWSI Results](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/BWSIResults.gif)
+
+##### Quantum Image Detection at MIT BWSI (Team Capybaras)
+
+!
+
 <!--
 **timothygao8710/timothygao8710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
