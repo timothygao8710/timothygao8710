@@ -2,6 +2,8 @@
 
 #### Some Cool Projects
 
+![Computational Fluid Dynamics/Simulation](https://github.com/timothygao8710/fluid-simulation)
+
 ![BWSI Results](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/BWSIResults.gif)
 ##### [Quantum Image Detection at MIT BWSI (Team Capybaras)](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/Paper.pdf)
 
