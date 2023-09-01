@@ -12,7 +12,7 @@
 ##### [Using Boids to Simulate Virus Infection](https://github.com/timothygao8710/Using-Boids-to-Simulate-Virus-Infection/tree/main/Assets)
 ![Boid Results](https://github.com/timothygao8710/timothygao8710/blob/main/BoidsResults.gif)
 
-#### Competitive Programming
+#### Competitive Programming (https://clist.by/coder/timg8710/)
 - [Original Code Solutions](https://github.com/timothygao8710/Competitive-Programming)
 - [Original Problems w/ Editorial](https://github.com/timothygao8710/Problem-Setting)
 - [C++ Algorithm/DS Implementations](https://github.com/timothygao8710/Competitive-Programming/tree/main/Algorithm%26DS%20Implementations)
