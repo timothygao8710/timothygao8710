@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+##### [Fluid Flow Simulation](https://github.com/timothygao8710/fluid-simulation)
+<img width="400" alt="Screenshot 2023-08-27 at 10 20 55 PM" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/1c85aa74-f065-4a77-be22-760363edda4a">
+
 ##### [Cancer360](https://github.com/MarcusUniversee/Cancer360)
 <img width="400" alt="Demo1" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/3de6e8f8-14d2-4878-9cd0-409de3c3243a">
 <img width="400" alt="Demo2" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/d064e39a-0646-4e71-9b85-1e8c7c356b69">
-
-##### [Fluid Flow Simulation](https://github.com/timothygao8710/fluid-simulation)
-<img width="400" alt="Screenshot 2023-08-27 at 10 20 55 PM" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/1c85aa74-f065-4a77-be22-760363edda4a">
 
 ##### [Deep Oculus](https://github.com/MarcusUniversee/Cancer360)
 Original 512x512 Retinal Eye Motion Video (data provided by C. Light Technologies):
