@@ -1,7 +1,18 @@
 ### Hi there 👋
 
+##### [Cancer360](https://github.com/MarcusUniversee/Cancer360)
+<img width="400" alt="Demo1" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/3de6e8f8-14d2-4878-9cd0-409de3c3243a">
+<img width="400" alt="Demo2" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/d064e39a-0646-4e71-9b85-1e8c7c356b69">
+
 ##### [Fluid Flow Simulation](https://github.com/timothygao8710/fluid-simulation)
 <img width="400" alt="Screenshot 2023-08-27 at 10 20 55 PM" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/1c85aa74-f065-4a77-be22-760363edda4a">
+
+##### [Deep Oculus](https://github.com/MarcusUniversee/Cancer360)
+Original 512x512 Retinal Eye Motion Video (data provided by C. Light Technologies):
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/umxOWhzmLYs/0.jpg)](https://www.youtube.com/watch?v=umxOWhzmLYs)
+
+Our DCGAN-generated Upscaled 64x64 Synthetic Eye Motion Video (with embedded pupil trace statistics):
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TMXJJJAKSsQ/0.jpg)](https://www.youtube.com/watch?v=TMXJJJAKSsQ)
 
 ##### [Quantum Image Edge Detection (MIT BWSI)](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/Paper.pdf)
 ![BWSI Results](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/BWSIResults.gif)
@@ -18,7 +29,7 @@
 - [C++ Algorithm/DS Implementations](https://github.com/timothygao8710/Competitive-Programming/tree/main/Algorithm%26DS%20Implementations)
 - [Contributor at USACO.guide](https://github.com/cpinitiative/usaco-guide)
 
-##### [Game Development](https://council-of-watersheep.itch.io/coronacarnage)
+##### [Game Development with Unity](https://council-of-watersheep.itch.io/coronacarnage)
 
 ![Game](https://github.com/timothygao8710/timothygao8710/blob/main/gameresult.gif)
 
