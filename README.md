@@ -7,7 +7,7 @@
 <img width="400" alt="Demo1" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/3de6e8f8-14d2-4878-9cd0-409de3c3243a">
 <img width="400" alt="Demo2" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/d064e39a-0646-4e71-9b85-1e8c7c356b69">
 
-##### [Deep Oculus](https://github.com/MarcusUniversee/Cancer360)
+##### [Deep Oculus](https://github.com/MarcusUniversee/DeepOculos)
 Original 512x512 Retinal Eye Motion Video (data provided by C. Light Technologies):
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/umxOWhzmLYs/0.jpg)](https://www.youtube.com/watch?v=umxOWhzmLYs)
 
