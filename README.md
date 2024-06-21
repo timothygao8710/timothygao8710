@@ -14,9 +14,6 @@ Original 512x512 Retinal Eye Motion Video (data provided by C. Light Technologie
 Our DCGAN-generated Upscaled 64x64 Synthetic Eye Motion Video (with embedded pupil trace statistics):
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TMXJJJAKSsQ/0.jpg)](https://www.youtube.com/watch?v=TMXJJJAKSsQ)
 
-##### [Quantum Image Edge Detection (MIT BWSI)](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/Paper.pdf)
-![BWSI Results](https://github.com/timothygao8710/Capybaras-Capstone-Project/blob/main/BWSIResults.gif)
-
 ##### [Gradient Descent in Logistic Regression and Machine Learning](https://github.com/timothygao8710/Gradient-Descent-in-Logistic-Regression-and-Machine-Learning/blob/main/Main%20Paper.ipynb)
 <img width="400" alt="204716555-2eafabd8-1741-40c2-9d4c-4e9e5d705743" src="https://github.com/timothygao8710/timothygao8710/assets/35588167/45f1d349-dcae-4dd5-8a77-6c81b1d7802b">
 
