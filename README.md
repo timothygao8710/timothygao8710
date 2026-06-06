@@ -5,6 +5,9 @@ My name is Timothy Gao and I'm a Junior at Berkeley majoring in EECS. You can re
 ##### ScaleDet: Make Your ViT Detector Scale invariant
 - https://github.com/timothygao8710/ScaleDet
 
+##### minWhisper
+https://github.com/timothygao8710/minWhisper
+
 ##### minRL (in progress)
 - https://github.com/timothygao8710/minRL
 
