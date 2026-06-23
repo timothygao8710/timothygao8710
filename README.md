@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Timothy Gao and I'm a Senior at Berkeley majoring in EECS, currently interning at Etched!
+My name is Timothy Gao and I'm a Senior at Berkeley majoring in EECS, currently building chips for LLM inference at Etched!
 
 ##### ScaleDet: Make Your ViT Detector Scale invariant
 - https://github.com/timothygao8710/ScaleDet
