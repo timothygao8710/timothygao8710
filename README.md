@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-My name is Timothy Gao and I'm a Junior at Berkeley majoring in EECS. You can reach me at timothygao@berkeley.edu.
+My name is Timothy Gao and I'm a Senior at Berkeley majoring in EECS. 
 
 ##### ScaleDet: Make Your ViT Detector Scale invariant
 - https://github.com/timothygao8710/ScaleDet
+
+##### minLlama
+https://github.com/timothygao8710/minLlama
 
 ##### minWhisper
 https://github.com/timothygao8710/minWhisper
